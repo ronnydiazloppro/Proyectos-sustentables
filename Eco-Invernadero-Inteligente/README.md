@@ -1,1 +1,1 @@
-Hola
+Desde finales del año 2017 y durante 3 años, vivimos y trabajamos en asesoría de Proyectos Sostenibles y Desarrollador Web para una empresa chilena. Su CEO es mi amiga y colaboradora de trabajo Elisa Sierra, para la que diseñamos y construimos un Invernadero Eco Inteligente.
